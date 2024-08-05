@@ -1,0 +1,35 @@
+.recipe-list.page-title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.recipe-list .homepage {
+    color: hsl(216, 57%, 36%);
+    font-size: 30px;
+}
+
+.page-title {
+    color: rgb(57, 224, 155);
+    font-size: 50px;
+    text-align: center;
+}
+
+.odin-picture {
+    width:800px ; height: auto;
+    alt: "picture of odin";
+}
+
+.recipe-list, .recipe-header {
+    font-size: 30px;
+    color: rgb(89, 207, 109);
+}
+
+.recipe-page-header {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(50, 138, 179)
+}
+
+.recipe-photo {
+    height: auto;
+    width: 500px;
+}
